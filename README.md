@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aboulabed
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Sass Framwork
+- 🌱 I’m currently learning OSSU Curriculum
 - 📫 How to reach me Suhailattackontitanahmed@gmail.com
 
 <!---
