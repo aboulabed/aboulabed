@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Front-end trainer in AlexApps<br>👯 I’m looking to collaborate on Front-endprojects.<br>🤝 I’m always happy to help others and learn from them.<br>🌱 I’m currently learning OSSU Curriculum<br>💬 Ask me about Front-end<br>
+🔭 I’m currently working as a Front-end trainer in AlexApps<br>👯 I’m looking to collaborate on Front-endprojects.<br>🤝 I’m always happy to help others and learn from them.<br>🌱 I’m currently learning OSSU Curriculum<br>💬 Ask me about Front-end<br> 
 
 
 ## 🌐 Socials:
